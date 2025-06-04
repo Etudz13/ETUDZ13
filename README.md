@@ -1,4 +1,3 @@
-حول html الى https
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <     <thead>
